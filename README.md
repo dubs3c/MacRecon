@@ -5,7 +5,7 @@ This is not an exhaustive list, just a few ones that contain juciy information. 
 
 ## Motivation
 
-David Jacoby's talk at SEC-T 2021 promted me to recreate some of the examples that he demonstrated.
+David Jacoby's talk at SEC-T 2021 prompted me to recreate some of the examples that he demonstrated.
 
 ## Contributing
 1. Fork it!
