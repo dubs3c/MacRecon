@@ -11,6 +11,7 @@ David Jacoby's talk at SEC-T 2021 prompted me to recreate some of the examples t
 
 If you want to learn more about offensive tooling around Mac OS, check out the links below:
 
+- [https://www.youtube.com/watch?v=OFQYTJiAmxs](https://www.youtube.com/watch?v=OFQYTJiAmxs)
 - [https://github.com/D00MFist/PersistentJXA](https://github.com/D00MFist/PersistentJXA)
 - [https://taomm.org/PDFs/vol1/](https://taomm.org/PDFs/vol1/)
 - [https://github.com/its-a-feature/offensive_macos](https://github.com/its-a-feature/offensive_macos)
